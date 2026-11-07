@@ -1,0 +1,6 @@
+{
+  "name": "Ekonomi Kita - Media Pembelajaran Ekonomi SMA",
+  "description": "Platform Media Pembelajaran Interaktif Masalah Pokok Ekonomi & Sistem Ekonomi SMA oleh Kelompok 3 dengan simulasi interaktif, kuis terintegrasi, dan manajemen data CRUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
